@@ -12287,11 +12287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46733170841\\Desktop\\M_Quiron_Recap\\M_Quiron_Recap\\M_Quiron_Recap.csproj",
+      "projectUniqueName": "C:\\Users\\46733170841\\Desktop\\teste\\m_quiron_recap\\Backend\\M_Quiron_Recap\\M_Quiron_Recap.csproj",
       "projectName": "M_Quiron_Recap",
-      "projectPath": "C:\\Users\\46733170841\\Desktop\\M_Quiron_Recap\\M_Quiron_Recap\\M_Quiron_Recap.csproj",
+      "projectPath": "C:\\Users\\46733170841\\Desktop\\teste\\m_quiron_recap\\Backend\\M_Quiron_Recap\\M_Quiron_Recap.csproj",
       "packagesPath": "C:\\Users\\46733170841\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46733170841\\Desktop\\M_Quiron_Recap\\M_Quiron_Recap\\obj\\",
+      "outputPath": "C:\\Users\\46733170841\\Desktop\\teste\\m_quiron_recap\\Backend\\M_Quiron_Recap\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
